@@ -7,7 +7,6 @@
 * [Dashboard Requirements](#Dashboard-Requirements)
 * [Installation / Usage](#Installation--Usage)
 * [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
-* [Bug / Feature Request](#Bug--Feature-Request)
 * [Authors](#Authors)
   
 ## Introduction
@@ -52,13 +51,8 @@
 (c) Year on Year Growth of Accidents - YoY Accidents Measure
 * `YoY Accidents = ([CY Accidents Count]-[PY Accidents Count])/[PY Accidents Count]`
 
-## Bug / Feature Request
-If you find a bug (the dashboard gave undesired results), kindly open an issue [here](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/IsaacMwendwa/Power-BI-Road-Accidents-Analysis-Dashboard/issues/new). Please include sample queries and their corresponding results.
-
 ## Authors
-* **[Isaac Mwendwa](https://github.com/Pavithran26)**
+* **[Pavithran26](https://github.com/Pavithran26)**
 
 
 
